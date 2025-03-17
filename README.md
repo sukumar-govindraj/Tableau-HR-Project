@@ -1,6 +1,7 @@
 # HR Dashboard (Tableau Project) :bar_chart:
+![image](https://github.com/user-attachments/assets/7ac2b63f-5080-4055-9de2-d6151c5a4845)
+![image](https://github.com/user-attachments/assets/a3e7accb-7e50-44d7-9a57-bbdc260b266f)
 
-![HR Dashboard Cover](./mockups/DashboardCover.jpg)
 
 > **A comprehensive Human Resources dashboard built in Tableau**, designed to provide **high-level insights** and **detailed employee records** for in-depth analysis.
 
@@ -57,7 +58,7 @@ The **HR Dashboard** addresses this user story by presenting **key workforce met
 - **Geographic Distribution**  
   Highlights employee distribution by city and state.
 
-![Overview Example](./mockups/OverviewMockup.png)
+https://cdn-icons-png.flaticon.com/512/1828/1828884.png
 
 ### 2. Demographics :family_man_woman_girl_boy:
 - **Gender Ratio**  

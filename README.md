@@ -8,8 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau%20Project-Dashboard-blue?style=flat-square" alt="Tableau Project Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License Badge"/>
+  <img src="[https://public.tableau.com/app/profile/sukumar.govindaraj/viz/HRDashboard_17422342195960/HRSummary]" alt="Tableau Project Badge"/>
 </p>
 
 <br/>

@@ -1,10 +1,6 @@
 # HR Dashboard (Tableau Project) :bar_chart:
 
-![image](https://github.com/user-attachments/assets/5a6f778b-5ebe-4cf8-86ab-1fc2b96b91f3)
-
-![image](https://github.com/user-attachments/assets/7c634e0d-d3c8-40c1-b67b-4c221fcb6605)
-
-
+![HR Dashboard Cover](./mockups/DashboardCover.jpg)
 
 > **A comprehensive Human Resources dashboard built in Tableau**, designed to provide **high-level insights** and **detailed employee records** for in-depth analysis.
 
@@ -61,7 +57,7 @@ The **HR Dashboard** addresses this user story by presenting **key workforce met
 - **Geographic Distribution**  
   Highlights employee distribution by city and state.
 
-
+![Overview Example](./mockups/OverviewMockup.png)
 
 ### 2. Demographics :family_man_woman_girl_boy:
 - **Gender Ratio**  
@@ -71,7 +67,7 @@ The **HR Dashboard** addresses this user story by presenting **key workforce met
 - **Performance Correlations**  
   Demonstrates how employees’ educational backgrounds correlate with their performance ratings.
 
-
+![Demographics Example](./mockups/DemographicsMockup.png)
 
 ### 3. Income Analysis :moneybag:
 - **Salary by Education & Gender**  
@@ -79,6 +75,7 @@ The **HR Dashboard** addresses this user story by presenting **key workforce met
 - **Salary vs. Age by Department**  
   Shows how age correlates with salary for employees across various departments.
 
+![Income Analysis Example](./mockups/IncomeMockup.png)
 
 ### 4. Employee Records View :card_index_dividers:
 - **Comprehensive Employee List**  
@@ -86,6 +83,7 @@ The **HR Dashboard** addresses this user story by presenting **key workforce met
 - **Flexible Filtering**  
   Allows users to filter by any of the available columns for granular insights.
 
+![Employee Records Example](./mockups/EmployeeRecordsMockup.png)
 
 <br/>
 
@@ -109,18 +107,12 @@ The **HR Dashboard** addresses this user story by presenting **key workforce met
 - **.twbx file**  
   Contains all dashboard worksheets and layouts.  
 - **Online Access**  
-  You can also view the published dashboard on [Tableau Public](# HR Dashboard (Tableau Project) :bar_chart:
-
-![HR Dashboard Cover](./mockups/DashboardCover.jpg)
-
-> **A comprehensive Human Resources dashboard built in Tableau**, designed to provide **high-level insights** and **detailed employee records** for in-depth analysis.
+  You can also view the published dashboard on [Tableau Public](https://public.tableau.com/app/profile/sukumar.govindaraj/viz/HRDashboard_17422342195960/HRSummary).
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau%20Project-Dashboard-blue?style=flat-square" alt="Tableau Project Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License Badge"/>
-</p>
+## Getting Started :rocket:
 
-
-
+1. **Clone or Download this Repository**  
+   ```bash
+   git clone https://github.com/sukumar-govindraj/Tableau-HR-Project.git

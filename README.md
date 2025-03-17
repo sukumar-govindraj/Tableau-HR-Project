@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="[https://public.tableau.com/app/profile/sukumar.govindaraj/viz/HRDashboard_17422342195960/HRSummary]" alt="Tableau Project Badge"/>
+  <img src="https://public.tableau.com/app/profile/sukumar.govindaraj/viz/HRDashboard_17422342195960/HRSummary" alt="Dashboard"/>
 </p>
 
 <br/>

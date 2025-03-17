@@ -3,13 +3,11 @@
 ![image](https://github.com/user-attachments/assets/a3e7accb-7e50-44d7-9a57-bbdc260b266f)
 
 
-> **A comprehensive Human Resources dashboard built in Tableau**, designed to provide **high-level insights** and **detailed employee records** for in-depth analysis.
-
+<br> **A comprehensive Human Resources dashboard built in Tableau**, designed to provide **high-level insights** and **detailed employee records** for in-depth analysis.
+Dashboard [Tableau Public](https://public.tableau.com/app/profile/sukumar.govindaraj/viz/HRDashboard_17422342195960/HRSummary)
 <br/>
 
-<p align="center">
-  <img src="https://public.tableau.com/app/profile/sukumar.govindaraj/viz/HRDashboard_17422342195960/HRSummary" alt="Dashboard"/>
-</p>
+
 
 <br/>
 
